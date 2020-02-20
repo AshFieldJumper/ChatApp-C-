@@ -31,3 +31,19 @@ C:\Users\Praktikant\Desktop\Login\Login\bin\Debug\Newtonsoft.Json.xml
 D:\_Documenten\Bureaublad\Login\Login\obj\Debug\Login.csprojAssemblyReference.cache
 D:\_Documenten\Bureaublad\Login\Login\obj\Debug\Login.exe
 D:\_Documenten\Bureaublad\Login\Login\obj\Debug\Login.pdb
+D:\School\Stage 2020\ChatApp-C-\Login\bin\Debug\Login.exe.config
+D:\School\Stage 2020\ChatApp-C-\Login\bin\Debug\Login.exe
+D:\School\Stage 2020\ChatApp-C-\Login\bin\Debug\Login.pdb
+D:\School\Stage 2020\ChatApp-C-\Login\bin\Debug\MaterialSkin.dll
+D:\School\Stage 2020\ChatApp-C-\Login\bin\Debug\Newtonsoft.Json.dll
+D:\School\Stage 2020\ChatApp-C-\Login\bin\Debug\Newtonsoft.Json.xml
+D:\School\Stage 2020\ChatApp-C-\Login\obj\Debug\Login.csprojAssemblyReference.cache
+D:\School\Stage 2020\ChatApp-C-\Login\obj\Debug\Login.Login.resources
+D:\School\Stage 2020\ChatApp-C-\Login\obj\Debug\Login.Home.resources
+D:\School\Stage 2020\ChatApp-C-\Login\obj\Debug\Login.Properties.Resources.resources
+D:\School\Stage 2020\ChatApp-C-\Login\obj\Debug\Login.Register.resources
+D:\School\Stage 2020\ChatApp-C-\Login\obj\Debug\Login.csproj.GenerateResource.cache
+D:\School\Stage 2020\ChatApp-C-\Login\obj\Debug\Login.csproj.CopyComplete
+D:\School\Stage 2020\ChatApp-C-\Login\obj\Debug\Login.exe
+D:\School\Stage 2020\ChatApp-C-\Login\obj\Debug\Login.pdb
+D:\School\Stage 2020\ChatApp-C-\Login\obj\Debug\Login.HomeScreen.resources

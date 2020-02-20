@@ -106,5 +106,12 @@ namespace Login
                 }
             }
         }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            HomeScreen newhomescreen = new HomeScreen();
+            newhomescreen.Show();
+            this.Hide();
+        }
     }
 }
