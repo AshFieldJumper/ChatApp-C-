@@ -16,7 +16,7 @@ namespace Login
         //vars 
         public static string api_token = "";
         private static string baseurl = "http://chatapp.rickstoit.nl/api/";
-        public List<string> Onlineusers;
+        public static List<string> Onlineusers;
 
 
 
@@ -78,6 +78,7 @@ namespace Login
             foreach(var persoon in users)
             {
                 Console.WriteLine(persoon.name);
+                Onlineusers.Add(persoon.name);
             }
         }
     }

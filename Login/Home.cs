@@ -18,6 +18,7 @@ namespace Login
 {
     public partial class Home : MaterialForm
     {
+        public static List<string> Onlineusers;
         public Home()
         {
             InitializeComponent();
@@ -51,6 +52,7 @@ namespace Login
             foreach (var persoon in users)
             {
                 Console.WriteLine(persoon.name);
+                Onlineusers.Add(persoon.name);
             }
         }
     }
