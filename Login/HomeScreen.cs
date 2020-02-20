@@ -7,6 +7,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+using Bunifu.Framework.UI;
 using MaterialSkin;
 using MaterialSkin.Controls;
 
@@ -29,11 +30,28 @@ namespace Login
             );
         }
 
-        private void bunifuFlatButton1_Click(object sender, EventArgs e)
+        private void bunifuFlatButton(object sender, EventArgs e)
         {
-            bunifuFlatButton1.Normalcolor = ColorTranslator.FromHtml("#686868");
+            BunifuFlatButton b=sender as BunifuFlatButton;
+            BunifuFlatButton b2 ;
+            foreach (var obj in this.panel3.Controls)
+            {
 
-            //#484747
+                if (obj is BunifuFlatButton )
+
+                {
+                    b2=obj as BunifuFlatButton;
+                    if (b2.Active && b.Name!=b2.Name) 
+                    {
+                        b2.selected = false;
+                    }
+                    else
+                    {
+                        b2.selected = true;
+                    }
+
+                }
+            }
         }
     }
 }
