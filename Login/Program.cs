@@ -14,6 +14,8 @@ namespace Login
         [STAThread]
         static void Main()
         {
+            Helpers.appStart = DateTime.Now.ToString();
+
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
             Application.Run(new Login());

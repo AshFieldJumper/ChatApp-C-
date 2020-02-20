@@ -17,6 +17,7 @@ namespace Login
         public static string api_token = "";
         private static string baseurl = "http://chatapp.rickstoit.nl/api/";
         public List<string> Onlineusers;
+        public static string appStart;
 
 
 
